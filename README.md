@@ -1,16 +1,17 @@
-## Hi there 👋
+# Waji Gadget
 
-<!--
-**wajigadget/wajigadget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clever everyday gadgets for Pakistani homes. Checked before dispatch, paid at your door.
 
-Here are some ideas to get you started:
+🌐 [wajigadget.com](https://www.wajigadget.com) · 💬 WhatsApp +92 314 1459889
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we're building
+
+A technology-first retail company: a fast storefront, honest product content,and ordering that works the way Pakistan shops — Cash on Delivery and WhatsApp.
+
+## Stack
+
+Next.js · TypeScript · Tailwind CSS · Vercel
+
+## Find us
+
+[LinkedIn](https://www.linkedin.com/company/wajigadget) ·[Instagram](https://www.instagram.com/wajigadget) ·[Facebook](https://www.facebook.com/officialwajigadget)
